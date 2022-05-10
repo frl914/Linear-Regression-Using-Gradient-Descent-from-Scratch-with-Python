@@ -1,6 +1,6 @@
 
 ### Model to fit a linear regression 
-### Dataset:
+### Dataset: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 ### Algorithm: linear regression using gradient descent 
 <br/>
 <br/>
